@@ -1,0 +1,7 @@
+{
+    "name": "UniversalCurrency",
+    "symbol": "UNIT",
+    "algorithm": "sha256",
+	"peerMagic": "a4d2f8a6",
+	"peerMagicTestnet": "adf1c2af"
+}
